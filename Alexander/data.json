@@ -1,0 +1,29 @@
+var data = `[
+	{
+		"name": "Pierogi",
+		"desc": "Pierogi may be stuffed (singularly or in combinations) with mashed potatoes, fried onions, quark or farmer cheese, cabbage, sauerkraut, meat, mushrooms, spinach, cheese, or other ingredients depending on the cook's preferences...",
+		"price": "14",
+		"src": "../img/pierogi.jfif",
+		"id": "1",
+		"href": "https://en.wikipedia.org/wiki/Pierogi",
+		"rating": "5"
+	},
+	{
+		"name": "Wiener Schnitzel",
+		"desc": "The dish is prepared from veal slices, butterfly cut, about 4 millimetres (0.16 in) thin and lightly pounded flat, slightly salted, and rolled in flour, whipped eggs and bread crumbs. The bread crumbs must not be pressed into the meat, so that they stay dry and can be souffléd...",
+		"price": "25",
+		"src": "../img/schnitzel.jfif",
+		"id": "2",
+		"href": "https://en.wikipedia.org/wiki/Wiener_schnitzel",
+		"rating": "6"
+	},
+	{
+		"name": "Fatteh",
+		"desc": "Fatteh is a hearty casserole of crispy pita bread beneath creamy, warm chickpeas and a luscious garlic-yogurt- tahini sauce, most commonly garnished with hot ghee, toasted pine nuts and fresh chopped parsley...",
+		"price": "37",
+		"src": "../img/Fatteh.jpg",
+		"id": "3",
+		"href": "https://en.wikipedia.org/wiki/Fatteh",
+		"rating": "7"
+	}
+]`;
